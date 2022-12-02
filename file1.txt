@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 prajwal this is updated in fst branch
+=======
+this is updated in fstbranch
+>>>>>>> firstbranch
